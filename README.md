@@ -9,3 +9,11 @@ Talking about the simple restaurant order in Java, this system is simple and ver
 
 Design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users. To run this project you must have installed Eclipse IDE or Netbeans IDE on your PC. The simple order system in Java is free to download with source code. For the project demo, have a look at the video below.
 
+About Simple Ordering System
+The Simple Ordering System was developed using only Java  programming language. This application is a user-friendly kind of system that can easily fit to your needs. The application provide you a basic function that can let order a food items. This system allows you to manage the food listing by adding, deleting, update of all the food items. The system also has an add to cart function, this could greatly help customer to select their ordered food. All the transaction details are saved as a Text file extension.
+Simple Ordering System in Java Free Source Code Features
+Can add new food items
+Has add to cart feature
+Can display total food item
+Auto calculate food ordered
+Manage labor list
